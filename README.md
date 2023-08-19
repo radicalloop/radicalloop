@@ -1,5 +1,5 @@
 ### Hi there 👋, RadicalLoop 
-#### On a mission to to scale, simplify, and automate businesses through the art of software engineering.
+#### Committed to building high performant, scalable apps, consistently. 
 ![On a mission to to scale, simplify, and automate businesses through the art of software engineering.](https://pbs.twimg.com/profile_banners/756203505543634945/1671096132/1500x500)
 
 We specialize in building digital products including web, mobile, and desktop applications, integrating cutting-edge AI technologies.
