@@ -12,6 +12,5 @@ We are happy to discuss our latest projects and our working methodology further.
 
 Let's connect and leverage the power of AI to enhance your digital products! 🌱
 
-Skills: Software Development: Web, Mobile and Desktop
+Skills: Web, Mobile and Desktop software developement
 
-- 🔭 I’m currently working on this page. 
