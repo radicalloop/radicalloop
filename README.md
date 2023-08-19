@@ -26,6 +26,10 @@ Manage projects seamlessly with Agile methodologies, Atlassian Jira, Slack, and 
 
 Embark on a transformative journey with RadicalLoop, where innovation meets practicality, and technology empowers your success!
 
+
+![RadicalLoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=radicalloop&hide=contribs,prs)
+
+
 <!--
 **radicalloop/radicalloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
